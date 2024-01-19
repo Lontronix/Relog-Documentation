@@ -6,6 +6,7 @@
 - Categories must have unique names. No duplicate categories will be imported.
 - For simplicity, the import process in Relog is [atomic](https://en.wikipedia.org/wiki/Atomicity\_\(database\_systems). If any keys are missing or any data is malformed, the import process will fail.
 - All keys are required.
+- User data can currently only be imported and exported using `JSON`.
 
 
 ## Top Level
