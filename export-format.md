@@ -28,7 +28,7 @@
 ## Task
 | Key                  | Type         | Description                                                                                               |
 | -------------------- | ------------ | --------------------------------------------------------------------------------------------------------- |
-| task_name            | String       | the name of the task (min: 1 character, max: 32 characters)                                               |
+| name                 | String       | the name of the task (min: 1 character, max: 32 characters)                                               |
 | accent_color_id      | Int          | a representation of the tasks accent color                                                                |
 | category             | String       | the name of the category                                                                                  |
 | icon_identifier      | String       | an SF symbol icon name                                                                                    |
