@@ -34,6 +34,6 @@ to your app. [I have documented the file format that I use to export data from R
 
 ## Will you ever charge for Relog?
 
-I plan on adding a tip jar in the future, and might might charge for future features if they require on-going server costs or take a significant amount of effort to implement. However, any features that currently exist in the app will **never** be put behind a paywall.
+I plan on adding a tip jar in the future, and might charge for future features if they require on-going server costs or take a significant amount of effort to implement. However, any features that currently exist in the app will **never** be put behind a paywall.
 
 My goal is to make sure the fundamentals of Relog are able to be used by everyone.
