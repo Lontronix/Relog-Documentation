@@ -13,23 +13,22 @@ Yep! You can search for tasks but the UI only appears in the Tasks tab if you ha
 
 ## Can I Import my data from other apps?
 
-Yep, I even have a few pre-made Shortcuts for commonly requested apps. Let me know if you run into any issue using any of them!
+Yep, Relog has shortcuts actions that can help with this and I I even have a few pre-made Shortcuts for commonly requested apps. Please let me know if you run into any issue using them!
 
-If you are using an app that isn't listed here, feel free to reach out and I can make a shortcut for you. If you are feeling adventurous you can also make your own Shortcut.
+If you are using an app that isn't listed here, feel free to reach out and I might add it to this list. I can't promise I'll be able to add support for all requested apps but I'm happy to investigate.
 
 ### Prerequisites
 
 * Enable `Allow Sharing Large Amounts of Data` which can be found in `Settings.App < Shortcuts < Advanced`
 * Create an export of any existing data in Relog (`Relog Settings < Manage Your Data < Export Your Data`) 
 
-If import partially fails, you can clear the data in Relog by navigating to the Settings Tab, scrolling to "Manage Your Data" and selecting "Delete All Data".
+If the import partially fails, you can clear the data in Relog by navigating to the Settings Tab, scrolling to "Manage Your Data" and selecting "Delete All Data".
 
 | App                                                               | Shortcut                                                                           | Notes                             |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------- |
 | [Last Time](https://apps.apple.com/es/app/last-time/id534982023) | [Shortcuts Link](https://www.icloud.com/shortcuts/2de5bc0ecd944f9e865df172b4dd205e) | Imports all tasks and completions |
 
-If you are a developer of another task logging app, I encourage you do add import from Relog
-to your app. [I have documented the file format that I use to export data from Relog](https://github.com/Lontronix/Relog-Documentation/blob/main/export-format.md).
+If you are a developer of another task logging app, I encourage you do add import from Relog to your app. [I have documented the file format that I use to export data from Relog](https://github.com/Lontronix/Relog-Documentation/blob/main/export-format.md).
 
 
 ## Will you ever charge for Relog?
