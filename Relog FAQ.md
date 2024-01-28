@@ -22,22 +22,22 @@ Yep! You can search for tasks but the UI only appears in the Tasks tab if you ha
 
 ### Can I Import my Data From Other Apps?
 
-Yep, Relog has shortcuts actions that can help with this and I I even have a few pre-made Shortcuts for commonly requested apps. Please let me know if you run into any issue using them!
+Yep, Relog has shortcuts actions that can help with this and I even have a few pre-made Shortcuts for commonly requested apps. Please let me know if you run into any issue using them!
 
 If you are using an app that isn't listed here, feel free to reach out and I might add it to this list. I can't promise I'll be able to add support for all requested apps but I'm happy to investigate.
 
 #### Prerequisites
 
-* Enable `Allow Sharing Large Amounts of Data` which can be found in `Settings.App < Shortcuts < Advanced`
-* Create an export of any existing data in Relog (`Relog Settings < Manage Your Data < Export Your Data`) 
+* Enable `Allow Sharing Large Amounts of Data` (`Settings.App > Shortcuts > Advanced`)
+* Create an export of any existing data in Relog (`Relog Settings > Manage Your Data > Export Your Data`) 
 
-If the import partially fails, you can clear the data in Relog by navigating to the Settings Tab, scrolling to "Manage Your Data" and selecting "Delete All Data".
+If the import partially fails, you can clear the data in Relog Settings Tab (`Settings Tab > Delete All Data`).
 
 | App                                                               | Shortcut                                                                           | Notes                             |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------- |
 | [Last Time](https://apps.apple.com/es/app/last-time/id534982023) | [Shortcuts Link](https://www.icloud.com/shortcuts/2de5bc0ecd944f9e865df172b4dd205e) | Imports all tasks and completions |
 
-If you are a developer of another task logging app, I encourage you do add import from Relog to your app. [I have documented the file format that I use to export data from Relog](https://github.com/Lontronix/Relog-Documentation/blob/main/export-format.md).
+If you are a developer of another task logging app, I encourage you to add the ability to import from Relog to your app. [I have documented the file format that I use to export data from Relog](https://github.com/Lontronix/Relog-Documentation/blob/main/export-format.md).
 
 
 ### Will You Ever Charge for Relog?
@@ -48,7 +48,7 @@ My goal is to make sure the fundamentals of Relog are able to be used by everyon
 
 ## Why Can't I Complete the Same Task Within a Few Seconds of the Previous Completion?
 
-In order to prevent accidental completions, tasks have a **5 second cooldown** before they can be completed again. This cool down is present anywhere you complete a task (i.e. in the app, widgets, in a Shortcut or with Siri).
+In order to prevent accidental double completions, tasks have a **5 second cooldown** before they can be completed again. This cool down is present anywhere you complete a task (i.e. in the app, widgets, in a Shortcut or with Siri).
 
 ## Siri + Shortcuts
 
